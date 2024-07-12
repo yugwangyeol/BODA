@@ -112,4 +112,4 @@
 
 ## 7. 발표 자료&참고 자료
 
-[2023 장애인해커톤 대회 Team BODA 발표자료]()  
+[2023 장애인해커톤 대회 Team BODA 발표자료](https://github.com/yugwangyeol/BODA/blob/main/%ED%8C%80%20%EB%B3%B4%EB%8B%A4%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)  
